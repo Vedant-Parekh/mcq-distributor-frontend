@@ -1,5 +1,5 @@
 const tableBody = document.getElementById('taskTableBody');
-const names = ['None', 'Alice', 'Bob', 'Charlie', 'David', 'Eva'];
+const names = ['None', 'Vedant', 'Vishwa', 'Saumya', 'Virti', 'Jiya', 'Nishit', 'Mohisha', 'Aaryan', 'Manu', 'Rishabh', 'Tanvi', 'Other'];
 
 let data;
 fetch('https://splendid-pear-stockings.cyclic.app/getAllData')
